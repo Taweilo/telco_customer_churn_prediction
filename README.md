@@ -8,8 +8,8 @@
 
 Badge [source](https://shields.io/)
 
- <img src="https://www.bouzaien.com/post/house-pricing-prediction/featured.png" width="1100" height="450">
-This project will follow the Business Analysis (BA) workflow to address house price prediction using linear regression techniques. The business problem is creating a regression model that can accurately predict house prices based on the provided features. Therefore, real estate agents can utilize this model to evaluate the property.
+ <img src="https://www.bouzaien.com/post/house-pricing-prediction/" width="1100" height="450">
+
 
 ```
 ├── Image                       
@@ -24,10 +24,9 @@ This project will follow the Business Analysis (BA) workflow to address house pr
 ```
 
 ## 1. Business Understanding
-The goal of this project is to develop a predictive model for housing prices based on various property attributes, including area, number of bedrooms and bathrooms, etc.
 
 ## 2. Data Understanding 
-The Diabetes dataset was loaded via Colab. The dataset is from Kaggle: https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data (also please see housing_price_dataset.csv attached). Basic data analysis was performed to identify the shape of data, get column names, find missing values, and generate descriptive statistics. The pair plot demonstrated the relationship between variables. The distribution of the target variable was shown.
+
 
 * Data Dictionary
  
